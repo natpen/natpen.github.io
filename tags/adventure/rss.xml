@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title></title>
+        <link>https://natpen.net</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://natpen.net/tags/adventure/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Hiking the Pacific Crest Trail</title>
+                <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+                <link>https://natpen.net/pct/</link>
+                <guid>https://natpen.net/pct/</guid>
+                <description>&lt;p&gt;In late March, 2019, Andy and I started hiking northward from the California&#x2F;Mexico border. We intended to follow the Pacific Crest Trail (PCT) 2,652 miles through California, Oregon, and Wasshington, to ultimately arrive at the Washington&#x2F;Canada border. Six months later, after some unexpected twists and turns, we found ourselves at the northern terminus.&lt;&#x2F;p&gt;
+&lt;p&gt;You can see some highlights from the trip on my &lt;a href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;sparklespork&#x2F;&quot;&gt;Instagram&lt;&#x2F;a&gt;, or read more about the trail on &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Pacific_Crest_Trail&quot;&gt;Wikipedia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;commons&#x2F;thumb&#x2F;0&#x2F;02&#x2F;Pacific_crest_trail_route_overview.png&#x2F;220px-Pacific_crest_trail_route_overview.png&quot; alt=&quot;pct route&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
