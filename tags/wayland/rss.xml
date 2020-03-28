@@ -6,7 +6,7 @@
         <description></description>
         <generator>Zola</generator>
         <language>en</language>
-        <atom:link href="https://natpen.net/tags/technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://natpen.net/tags/wayland/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
         
             <item>
@@ -27,17 +27,6 @@ curl -d &amp;quot;entry=$WORD&amp;quot; &amp;#39;https:&#x2F;&#x2F;www.twinword.
 
 &lt;&#x2F;span&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;As long as you don&#x27;t go over 10k requests per month, the twinword API is free to use, and now you can get definitions pretty easily!&lt;&#x2F;p&gt;
-</description>
-            </item>
-        
-            <item>
-                <title>Old Technology</title>
-                <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-                <link>https://natpen.net/old-technology/</link>
-                <guid>https://natpen.net/old-technology/</guid>
-                <description>&lt;p&gt;For as long as I can remember, I&#x27;ve had a fascination with old technology.&lt;&#x2F;p&gt;
-&lt;p&gt;One of my favorite old technologies is the typewriter. They have a lot of intricate, neat engineering, and are fun to type on. My friend Nick and I had a typewriter letter club going on for a while until he moved to Macedonia, and it was super fun. My typewriter is an Olympia SM3, I think from about 1956. It&#x27;s really heavy, and the minimalist in me is loathe to get another of these monstrosities, but I also wish I had one of the IBM Selectrics, with their wonderful typeballs.&lt;&#x2F;p&gt;
-&lt;p&gt;Another of my favorite old technologies is the text editor. I&#x27;ve been using Emacs (originally from 1976!) for the past five years or so. It&#x27;s from a different era, and it shows, but with some elbow grease, it can be transformed into an editor that rivals, and in some ways even surpasses modern editors. By &amp;quot;some&amp;quot; elbow grease, I of course mean &amp;quot;a ludicrous amount of&amp;quot; elbow grease; attempting to use this editor for modern development isn&#x27;t worth your time unless you&#x27;re interested in the editor itself for some bizarre reason (like me :). Lately I&#x27;ve been playing around with Vim a bit more (which incidentally is also from 1976). I already like its text navigation more than Emacs, but I miss having elisp everywhere.&lt;&#x2F;p&gt;
 </description>
             </item>
         

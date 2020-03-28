@@ -19,6 +19,13 @@
         </url>
     
         <url>
+            <loc>https://natpen.net/defining-words/</loc>
+            
+                <lastmod>2020-03-28</lastmod>
+            
+        </url>
+    
+        <url>
             <loc>https://natpen.net/drawing-2019-11-16/</loc>
             
                 <lastmod>2019-11-16</lastmod>
@@ -95,6 +102,11 @@
         </url>
     
         <url>
+            <loc>https://natpen.net/page/3/</loc>
+            
+        </url>
+    
+        <url>
             <loc>https://natpen.net/pct/</loc>
             
                 <lastmod>2019-11-13</lastmod>
@@ -147,12 +159,22 @@
         </url>
     
         <url>
+            <loc>https://natpen.net/tags/sway/</loc>
+            
+        </url>
+    
+        <url>
             <loc>https://natpen.net/tags/technology/</loc>
             
         </url>
     
         <url>
             <loc>https://natpen.net/tags/vim/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://natpen.net/tags/wayland/</loc>
             
         </url>
     
